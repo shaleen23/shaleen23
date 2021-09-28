@@ -2,7 +2,7 @@
 ### I am a computer science student
 ### I have experience in python, c++, and Java
 ### I am attending Cal State Fullerton
-### I am a Lakers Fan 
+
 
 <!--
 **shaleen23/shaleen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
