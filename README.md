@@ -1,7 +1,7 @@
-### Hi there 👋 my name is Shaleen Mathur
-### I am a computer science student
-### I have experience in python, c++, and Java
-### I am attending Cal State Fullerton
+### Hi there 👋 my name is Shaleen Mathur.
+### I am a computer science student at California State University, Fullerton.
+### I have experience in Python, C++, Java, and many more!
+
 
 
 <!--
