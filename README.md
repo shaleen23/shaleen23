@@ -1,12 +1,39 @@
 # <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Shaleen Mathur</p>
 
 
-<p align = "center">  I am a junior computer science student at California State University, Fullerton.
+<div align="center">
+<h4> 🙎 Shaleen Mathur | 💻 Computer Science Student and Software Engineer Intern | 🛸 Mission Viejo, California <h4>
+</div> 
  
+ <div>
+<h2> <h2>
+  </div>
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.redd.it/xvxu4s9ow5u21.jpg" />
+<p align="center">
+  <h3> I'm a 20 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
+</p>
 
-<br> 
- <br>
+ - 🥀 Learning Swift & Objective_C
+ 
+ - <i>with Javascript, Typescript, React and 69 others.</i>
+   
+ - 🔭 SpaceX FanBoi, die for space😼
+
+ - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ 
+ - I do fullstack and much of every thing :heart:
+ 
+ - All About living life at its best.
+ 
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ 
+ <p align="center">
+  <h4> Full Stack | Typescript | Competitive Programming </h4>
+   </p>
+
+
  <p align = "center">
 -Languages and Tools: 
  <p align = "center">
@@ -41,7 +68,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-
+ 
+-GitHub Stats and Languages Used: 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaleen23&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=F5FF1A&icon_color=F5FF1A&text_color=F5FF1A&bg_color=0,000000,AF0000" alt="Shaleen Mathur's Github Stats">
