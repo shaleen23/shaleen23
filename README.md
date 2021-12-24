@@ -6,11 +6,12 @@
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
 
 <br /> 
- 
+
+<p align = "center"> 
 ### - Languages and Tools:
-<p align = "center">
+
  
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/dev/python.gif" alt="python" style="vertical-align:top; margin:4px">    
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="vertical-align:top; margin:4px">    
 
 
 <!--
