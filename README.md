@@ -1,4 +1,6 @@
-### Hi there 👋 my name is Shaleen Mathur.
+# <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sagar Joshi</p>
+
+
 ### I am a junior computer science student at California State University, Fullerton.
 ### I have experience in Python, C++, Java, and many more languages and technologies!
 
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 
 <i>Follow me on Linkedin, Instagram, and Spotify!:</i><br>
 
-<a href="https://www.linkedin.com/in/shaleen-mathur26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/shaleen-mathur26" target="_blank"><img src="https://www.freeiconspng.com/images/linkedin-logo-png alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shaleen_26" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/shaleen26" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
