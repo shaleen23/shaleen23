@@ -7,7 +7,6 @@
 
 <br> 
 
-<p align = "center"> 
  - Languages and Tools: 
 
  <br>
