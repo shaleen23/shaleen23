@@ -1,8 +1,8 @@
 # <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Shaleen Mathur</p>
 
 
-<p align = "center"> ### I am a junior computer science student at California State University, Fullerton.
-### I have experience in Python, C++, Java, and many more languages and technologies!
+<p align = "center">  I am a junior computer science student at California State University, Fullerton.
+ <p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies!
 
 
 
