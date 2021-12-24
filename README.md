@@ -1,4 +1,4 @@
-# <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sagar Joshi</p>
+# <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Shaleen Mathur</p>
 
 
 ### I am a junior computer science student at California State University, Fullerton.
