@@ -5,12 +5,12 @@
  
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
 
-<br /> 
+<br> 
 
 <p align = "center"> 
  - Languages and Tools: 
 
- <br />
+ <br>
  
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="width = 50" height ="50">    
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/mysql.gif" alt="mysql" style="width = 50" height ="50">    
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaleen23&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <br />
 ---
 
 <i>Follow me on Linkedin, Instagram, and Spotify!:</i><br>
