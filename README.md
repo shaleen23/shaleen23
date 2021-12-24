@@ -10,7 +10,7 @@
  - Languages and Tools: 
 
  <br>
- 
+ <p align = "center">
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="width = 50" height ="50">    
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/mysql.gif" alt="mysql" style="width = 50" height ="50">    
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/vscode.gif" alt="vscode" style="width = 50" height ="50">     
