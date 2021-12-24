@@ -15,23 +15,21 @@
   <h3> I'm a 20 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - Currently learning Algorithms, Web Servers, and more!
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - Want to become a full time Software Engineer once I graduate 
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - Working on a project as an intern @ Indegene Inc.
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - former Google Developer Student Clubs Lead @ Cal State Fullerton=
  
- - I do fullstack and much of every thing :heart:
+ - Die Hard Basketball and Los Angeles Lakers fan  <img align="right" height="60px" width="80px" alt="Lakers"            src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/lakers.gif" />
+ 
+ - I love playing video games on my Nintendo Switch and Xbox One
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
- 
- <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
+
 
 
  <p align = "center">
