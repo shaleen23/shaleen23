@@ -11,7 +11,7 @@
 ### - Languages and Tools:
 
  
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="vertical-align:top; margin:1px">    
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="vertical-align:top; width = "200" height = "200" margin:1px">    
 
 
 <!--
