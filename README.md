@@ -8,7 +8,7 @@
 <br /> 
 
 <p align = "center"> 
-### - Languages and Tools:
+** - Languages and Tools: **
 
  
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="vertical-align:top;width = 200;height =200">    
