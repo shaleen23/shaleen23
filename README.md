@@ -6,12 +6,15 @@
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
 
 <br> 
-
+ <br>
+ <p align = "center">
 -Languages and Tools: 
  <p align = "center">
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="width = 50" height ="50">    
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/mysql.gif" alt="mysql" style="width = 50" height ="50">    
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/vscode.gif" alt="vscode" style="width = 50" height ="50">     
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/vscode.gif" alt="vscode" style="width = 50" height ="50">  
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/output-onlinegiftools.gif" alt="Java" style="width = 60" height ="60"> 
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/git.gif" alt="git" style="width = 40" height ="40">  
 
   <br>
 
