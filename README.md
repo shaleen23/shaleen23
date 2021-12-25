@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h4> 🙎 Shaleen Mathur | 💻 Computer Science Student and Software Engineer Intern | 🛸 Mission Viejo, California <h4>
+<h3> 🙎 Shaleen Mathur | 💻 Computer Science Student and Software Engineer Intern | 🛸 Mission Viejo, California <h3>
 </div> 
  
  <div>
