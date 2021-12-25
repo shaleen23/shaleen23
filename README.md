@@ -10,7 +10,7 @@
   </div>
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.redd.it/xvxu4s9ow5u21.jpg" />
+<img align="right" height="470px" width="450px" alt="GIF" src="https://www.freecodecamp.org/news/content/images/2021/03/comments-meme.jpeg" />
 <p align="center">
   <h3> I'm a 20 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
 </p>
