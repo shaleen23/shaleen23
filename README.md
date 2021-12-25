@@ -44,12 +44,12 @@
  </div> 
  
  <p align = "center">
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="width = 50" height ="50">    
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/mysql.gif" alt="mysql" style="width = 50" height ="50">    
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/vscode.gif" alt="vscode" style="width = 50" height ="50">  
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/output-onlinegiftools.gif" alt="Java" style="width = 70" height ="70"> 
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/git.gif" alt="git" style="width = 40" height ="40">  
-<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/c++.png" alt="c++" style="width = 50" height ="50">    
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="width = 70" height ="70">    
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/mysql.gif" alt="mysql" style="width = 70" height ="70">    
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/vscode.gif" alt="vscode" style="width = 70" height ="70">  
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/output-onlinegiftools.gif" alt="Java" style="width = 90" height ="90"> 
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/git.gif" alt="git" style="width = 50" height ="50">  
+<img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/c++.png" alt="c++" style="width = 70" height ="70">    
 <h2> <h2>
   
 
