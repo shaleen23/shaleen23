@@ -10,7 +10,7 @@
   </div>
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
 <br />
-<img align="right" height="470px" width="450px" alt="GIF" src="https://www.freecodecamp.org/news/content/images/2021/03/comments-meme.jpeg" />
+<img align="right" height="270px" width="250px" alt="GIF" src="https://media3.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e476f7m7wgyqbv4iet9qcbfxykunl1rzqczitepgvsa&rid=giphy.gif&ct=s" />
 <p align="center">
   <h3> I'm a 20 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
 </p>
@@ -30,10 +30,12 @@
  - All About living life at its best.
  
 
-
-
- <p align = "center">
--Languages and Tools: 
+<h2> <h2>
+<div align="center">
+ 
+<h4> Languages and Tools: <h4>
+ </div> 
+ 
  <p align = "center">
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/python.gif" alt="python" style="width = 50" height ="50">    
 <img src="https://raw.githubusercontent.com/shaleen23/shaleen23/master/gifs/mysql.gif" alt="mysql" style="width = 50" height ="50">    
