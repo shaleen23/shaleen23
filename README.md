@@ -89,7 +89,7 @@ GitHub Stats and Languages Used:
   <br>
 ---
 
-<i>Follow me on Linkedin, Instagram, and Spotify!:</i><br>
+<i>Follow me on Linkedin, Instagram and Spotify! Also feel free to E-Mail me!:</i><br>
 
 <a href="https://www.linkedin.com/in/shaleen-mathur26" target="_blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="LinkedIn" style="width = 50" height ="50"></a>
 <a href="https://www.instagram.com/shaleen_26" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width = 50" height ="50"></a>
