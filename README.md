@@ -94,7 +94,7 @@ GitHub Stats and Languages Used:
 <a href="https://www.linkedin.com/in/shaleen-mathur26" target="_blank"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="LinkedIn" style="width = 50" height ="50"></a>
 <a href="https://www.instagram.com/shaleen_26" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" style="width = 50" height ="50"></a>
 <a href="https://open.spotify.com/user/shaleen26" target="_blank"><img src="https://spotlightstudio.org/wp-content/uploads/2019/12/image-gallery-spotify-logo-21.png" alt="Spotify" style="width = 50" height ="50"></a>
-<a href="mailto:shaleenmathur12@gmail.com" target="_blank"><img src="http://assets.stickpng.com/images/584856b4e0bb315b0f7675ac.png" alt="Spotify" style="width = 50" height ="50"></a> 
+<a href="mailto:shaleenmathur12@gmail.com" target="_blank"><img src="http://assets.stickpng.com/images/584856b4e0bb315b0f7675ac.png" alt="E-Mail" style="width = 50" height ="50"></a> 
 
 
 </div>
