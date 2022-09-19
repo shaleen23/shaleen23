@@ -12,7 +12,7 @@
 <br />
 <img align="right" height="250px" width="250px" alt="GIF" src="https://media3.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e476f7m7wgyqbv4iet9qcbfxykunl1rzqczitepgvsa&rid=giphy.gif&ct=s" />
 <p align="center">
-  <h3> I'm a 20 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
+  <h3> I'm a 21 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
 </p>
 
  - Currently learning Algorithms, Web Servers, and more!
