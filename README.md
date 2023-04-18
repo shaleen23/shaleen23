@@ -15,7 +15,7 @@
   <h3> I'm a 21 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
 </p>
 
- - Currently learning Android Development, Software Engineering, Artificial Intelligence, Parallel and Distributed Computing, and Computer System Architecture!
+ - Currently learning Game Design, Software Engineering, Web Back-End Development, and Blockchain!
  
  - Want to become a full time Software Engineer once I graduate 
    
