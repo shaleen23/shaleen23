@@ -1,4 +1,3 @@
-@@ -1,21 +1,21 @@
 # <p align="center">Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Shaleen Mathur</p>
 <div align="center">
 <h3> 🙎 Shaleen Mathur | 💻 Application Engineer at Vanguard | 🛸 Charlotte, North Carolina <h3>
