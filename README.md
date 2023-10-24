@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h3> 🙎 Shaleen Mathur | 💻 Computer Science Student and Software Engineer Intern | 🛸 Mission Viejo, California <h3>
+<h3> 🙎 Shaleen Mathur | 💻 Application Engineer at Vanguard | 🛸 Charlotte, North Carolina <h3>
 </div> 
  
  <div>
@@ -10,20 +10,7 @@
   </div>
  <!--<p align = "center"> I have experience in Python, C++, Java, and many more languages and technologies! -->
 <br />
-<img align="right" height="250px" width="250px" alt="GIF" src="https://media3.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif?cid=ecf05e476f7m7wgyqbv4iet9qcbfxykunl1rzqczitepgvsa&rid=giphy.gif&ct=s" />
-<p align="center">
-  <h3> I'm a 21 year old Computer Science Student at Cal State Fullerton and a Software Engineer at Indegene Inc. </h3>
-</p>
 
- - Currently learning Game Design, Software Engineering, Web Back-End Development, and Blockchain!
- 
- - Want to become a full time Software Engineer once I graduate 
-   
- - Working on a project as an intern @ Indegene Inc. 
- 
- - former Google Developer Student Clubs lead @ Cal State Fullerton
-
- 
  
  <!--
  - Die Hard Basketball and Los Angeles Lakers fan                           
